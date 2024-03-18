@@ -1,2 +1,2 @@
 # MR
-Mendelian randomisation stuff
+Mendelian randomisation scripts
